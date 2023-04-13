@@ -17,8 +17,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-using-htmlcss-WqIC7rSdOP)
+- Live Site URL: [Live](https://dgarance.github.io/qr-code-component-challenge/)
 
 ### Built with
 
