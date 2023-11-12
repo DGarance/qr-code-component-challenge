@@ -13,7 +13,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-[Desktop Screenshot](./desktopScreenshot.png) [Mobile Screenshot](mobileScreenshot.png)
+![Desktop Screenshot](./desktopScreenshot.png) ![Mobile Screenshot](mobileScreenshot.png)
 
 ### Links
 
